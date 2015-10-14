@@ -17,7 +17,8 @@ Para poder visualizar Mapas dentro de nuestra aplicacion, tenemos que integrar l
 
 Una vez integrada la librería en nuestro proyecto, solo falta sincronizar nuestra app para que reconozca cierta librería. Para ello tenemos que ir a **Tools->Android->Sync Project with Gradle Files** y listo! ya tenemos sincronizada nuestra librería para poder ser utilizada.
 
-# Google Play Services and Runtime Permissions 
+#Project Configuration
+
 Como se ha mencionado anteriormente esta aplicación te mostrara tu ubicación actual utilizando el **GPS** de nuestro dispositivo móvil y para ello se necesitan una serie de permisos los cuales tenemos que declarar dentro de nuestro archivo **AndroidManifest.xml** todo esto para poder visualizar nuestro mapa de Google Maps.
 
 Permisos requeridos
