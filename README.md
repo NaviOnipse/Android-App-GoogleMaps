@@ -1,6 +1,9 @@
 # Android-App-GoogleMaps
 Te recomiendo que visualices esta aplicacion en un dispositivo fisico y que tengas actualizado o instalado los servicios  de google play (**Google Play Services**) ya que son requeridos para visualizar mapas dentro de tu dispositivo android. 
 
+# Screenshot
+![](https://raw.githubusercontent.com/jorgefrac/Android-App-GoogleMaps/master/Screenshot/1.png)
+
 # Google Maps
 Para poder utilizar **Google Places API for Android** tienes que crear una API en el sitio web [Google Developers Console](https://console.developers.google.com/) 
 una vez creada te generara una clave la cual utilizaras dentro de tu aplicacion en Android Studio.
