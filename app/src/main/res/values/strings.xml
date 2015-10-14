@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Google Maps Android</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <!--GOOGLE MAPS API-->
+    <string name="api_key">AIzaSyCo-22aBGkKy4wzlTAO7E08wHXaeTGyaMs</string>
+</resources>
