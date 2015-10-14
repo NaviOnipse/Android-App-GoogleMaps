@@ -6,8 +6,7 @@ Para poder utilizar **Google Places API for Android** tienes que crear una API e
 una vez creada te generara una clave la cual utilizaras dentro de tu aplicacion en Android Studio.
 
 # Google Play Services and Runtime Permissions
-Como se ha mencionado anteriormente esta aplicación te mostrara tu ubicación actual utilizando el **GPS** de tu dispositivo movil y para ello se necesitan una serie de permisos los cuales ml**# Add Google Play Services to Your Project
-Para poder visualizar Mapas dentro de nuestra aplicacion, tenemos que integrar la librería [Google Play Services](https://developers.google.com/android/guides/setup), dentro de nuestro proyecto el en archivo build.gradle. Para mas información te dejo la documentación Oficial [Setting Up Google Play Services](https://developers.google.com/android/guides/setup)
+Como se ha mencionado anteriormente esta aplicación te mostrara tu ubicación actual utilizando el **GPS** de tu dispositivo movil y para ello se necesitan una serie de permisos los cuales son necesarios para poder visualizar mapas dentro de nuestra aplicacion. Para ello tenemos que integrar la librería [Google Play Services](https://developers.google.com/android/guides/setup), dentro de nuestro proyecto el en archivo build.gradle. Para mas información te dejo la documentación Oficial [Setting Up Google Play Services](https://developers.google.com/android/guides/setup)
 
 **build.gradle**
 
